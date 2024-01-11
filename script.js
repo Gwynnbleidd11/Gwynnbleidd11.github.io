@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://kodilla-rest-api.patrykkrzyzak.repl.co/v1/tasks';
+  var apiRoot = 'https://c63a4339-074e-415f-a25b-8427f441f73c-00-1vebv59ue6n7r.worf.replit.dev/v1/tasks';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
